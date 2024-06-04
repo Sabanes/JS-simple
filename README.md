@@ -9,11 +9,3 @@ This is a simple JavaScript program that generates random inspirational quotes. 
 - Adds a fun emoji to each quote for visual appeal
 - Uses modern ES6 syntax with arrow functions and const/let declarations
 
-## Usage
-
-1. Open your preferred terminal or command prompt.
-2. Navigate to the directory where the JavaScript file is located.
-3. Run the file using Node.js: `node quote-generator.js`
-4. A new, random inspirational quote will be logged to the console.
-
-## Example Output
